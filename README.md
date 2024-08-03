@@ -1,2 +1,1 @@
-# practica0
-practica 0
+# Practica 0
